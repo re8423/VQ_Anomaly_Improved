@@ -18,3 +18,4 @@ This Repo contains code from my 3rd year dissertation: "Improved Density-Estimat
   >
 
 Training Loops are in their respective _train files.
+[Gifdemo](https://github.com/re8423/VQ_Anomaly_Improved/blob/main/Images/light_wise_vae_trans_anom(1).gif)
